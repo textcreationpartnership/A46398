@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The justice of peace: or a vindication of peace from several late pamphlets, written by Mr. Congreve, Dennis, &amp;c. In doggrel verse. Written at the request of a young lady, and dedicated to her. By a poet.</title>
+            <author>Poet, fl. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46398</idno>
+            <idno type="STC">Wing J1251A</idno>
+            <idno type="STC">ESTC R16864</idno>
+            <idno type="EEBO-CITATION">99825046</idno>
+            <idno type="PROQUEST">99825046</idno>
+            <idno type="VID">29414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The justice of peace: or a vindication of peace from several late pamphlets, written by Mr. Congreve, Dennis, &amp;c. In doggrel verse. Written at the request of a young lady, and dedicated to her. By a poet.</title>
+                  <author>Poet, fl. 1697.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>A reply to "The birth of the muse" by William Congreve and "The nuptials of Britain's genius and fame" by John Dennis.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congreve, William, 1670-1729. --  Birth of the muse --  Controversial literature --  Early works to 1800.</term>
+               <term>Dennis, John. --  Nuptials of Britain's genius and fame --  Controversial literature --  Early works to 1800.</term>
+               <term>Peace --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Social life and customs --  17th century --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:29414:1" rendition="simple:additions"/>
+THE Juſtice of PEACE: Or a Vindication of PEACE FROM Several Late PAMPHLETS, Written by Mr. <hi>Congreve, Dennis,</hi> &amp;c.</p>
+            <p>In Doggrel Verſe</p>
+            <p>
+               <hi>Written at the Requeſt of a YO<g ref="char:V">Ʋ</g>NG LADY, and</hi> DEDICATED <hi>to her.</hi>
+            </p>
+            <p>
+               <hi>By a POET.</hi>
+            </p>
+            <q>
+               <l>I'll own, that you write better than I do,</l>
+               <l>But I have as much need to write as you:</l>
+               <l>What tho the Excrements of my dull Brain</l>
+               <l>Flow in a harſh and an inſipid Strain;</l>
+               <l>While your Rich Head eaſes it ſelf of Wit?</l>
+               <l>Muſt none but Civet-Cats have leave to Sh-t?</l>
+               <bibl>
+                  <hi>Rocheſt.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1697.</p>
+            <pb facs="tcp:29414:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:29414:2"/>
+            <head>A POEM On the PEACE.</head>
+            <q>Dedicated to a Young LADY.</q>
+            <lg>
+               <l>ASSIST me Muſe, who oft has been</l>
+               <l>Kind Midwife to my Teeming Brain;</l>
+               <l>Who to its Pangs no ſooner didſt</l>
+               <l>Apply thy gentle Artful Fiſt,</l>
+               <l>But out came Bantling, Scan'd by Finger,</l>
+               <l>And ſoon as Born turn'd Ballad-ſinger;</l>
+               <l>And as 'twould crack its tender Weazon,</l>
+               <l>In Rhyme 'gan Squawling without Reaſon.</l>
+               <l>Aſſiſt me Muſe in this laſt Iſſue;</l>
+               <l>For which may ever Gown of Tiſſue</l>
+               <l>
+                  <pb n="2" facs="tcp:29414:3"/>
+Grace thy fair Corps, and double <hi>Nancy</hi>
+               </l>
+               <l>Fill <hi>Helicon</hi> to Inſpire thy Fancy:</l>
+               <l>And <hi>Thou,</hi> Firſt-Couſin to the <hi>Nine,</hi>
+               </l>
+               <l>In whom both Wit and Beauty ſhine,</l>
+               <l>
+                  <hi>Bright Nymph,</hi> my kind Inſpiring Guide,</l>
+               <l>Oh, ſit down gently by my Side;</l>
+               <l>Make tuneful <hi>Crambo</hi> thy Paſtime,</l>
+               <l>And help thy Slave to pump for Rhyme;</l>
+               <l>That in lewd Doggrel I may fall at</l>
+               <l>Making of Peace, ſo quaint a Ballad,</l>
+               <l>That may, as Simple as my Pen is,</l>
+               <l>
+                  <hi>Congreve</hi> out-Rhyme, and out-Rage <hi>Dennis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Inſtead of ſaying what we want, <note place="margin">Dennis.</note>
+               </l>
+               <l>One Banters us with rumbling Cant;</l>
+               <l>Talks of deep <hi>Pindar</hi>'s ſounding Lyre,</l>
+               <l>Of <hi>Rapture, Fury, Flame</hi> and <hi>Fire:</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="tcp:29414:3"/>
+As if no Peace cou'd e'er be had,</l>
+               <l>But Hairb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain'd Poet muſt run Mad.</l>
+               <l>Another writes ſuch ſoothing Number, <note place="margin">C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>
+               </l>
+               <l>'Twoud almoſt lull one to a Slumber;</l>
+               <l>In Frontiſpiece ſtands <hi>Birth of Muſe,</hi>
+               </l>
+               <l>A <hi>Porch</hi> too big for ſuch a <hi>Houſe:</hi>
+               </l>
+               <l>In gentle Strains he tells a Tale</l>
+               <l>Of <hi>Heavenly Orb,</hi> and <hi>Earthly Ball;</hi>
+               </l>
+               <l>By dint of Rhyme he proves it clear,</l>
+               <l>That the <hi>World hangs in Ambient Air;</hi>
+               </l>
+               <l>Sings of <hi>Creation,</hi> and rehearſes</l>
+               <l>Good Proſe of <hi>Moſes</hi> in bad Verſes.</l>
+               <l>But ſure Tranſported Bard forgot,</l>
+               <l>Peace was the thing he ſhou'd be at;</l>
+               <l>For what is <hi>Geneſis</hi> pray to it,</l>
+               <l>More than Religion to a Poet?</l>
+               <l>
+                  <pb n="4" facs="tcp:29414:4"/>
+But I ſhan't <hi>Moſes</hi> filch, nor <hi>Pindar;</hi>
+               </l>
+               <l>Since nought my honeſt Heart can hinder,</l>
+               <l>But in a plain unborrow'd Dreſs,</l>
+               <l>I'll treat of nothing but <hi>meer Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Great <hi>Naſſau</hi> with his Red-coat Rabble</l>
+               <l>Has put an end to <hi>Europe</hi>'s Squabble;</l>
+               <l>Bid Bloody Kings no more to Briſtle,</l>
+               <l>But making <hi>Peace,</hi> go home and Whiſtle;</l>
+               <l>Bid 'em bright Armour no more perk in,</l>
+               <l>Or elſe egad he'd Threſh their Jerkin.</l>
+               <l>So have I ſeen two Punks call Names,</l>
+               <l>Till Wars engage the bloody Dames;</l>
+               <l>With their loud Tongues they beat Alarms,</l>
+               <l>And wheat their Talons into Arms;</l>
+               <l>
+                  <pb n="5" facs="tcp:29414:4"/>
+Then by the Ears fall both a tugging,</l>
+               <l>As if good Ears were made for Lugging<hi>:</hi>
+               </l>
+               <l>Till ſome Grave Baud, with goodly Mein,</l>
+               <l>A <hi>Peaceful <g ref="char:V">Ʋ</g>mpire</hi> goes between;</l>
+               <l>Bids 'em leave off their ſhameful Pother,</l>
+               <l>And ſhoves this one way, that another:</l>
+               <l>Then both to <hi>Articles</hi> agree,</l>
+               <l>And to the Matron Thanks decree;</l>
+               <l>Who Shame prevented they ne'er wiſt on,</l>
+               <l>And ſav'd a Sea of Blood right Chriſtian.</l>
+            </lg>
+            <lg>
+               <l>Now Peace reſtores our former Treaſure,</l>
+               <l>Each Sex may drown themſelves in Pleaſure;</l>
+               <l>The Men ſhan't pale for want of <hi>Red</hi> look,</l>
+               <l>Nor Green-ſick Damſels whine for Wedlock</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:29414:5"/>
+               <l>Rejoyce ye merry Drinking Souls,</l>
+               <l>Let Wine fly round in luſty Bowls.</l>
+               <l>The Vintners (marry ſtop their Vitals)</l>
+               <l>Who ear'ſt while drain'd our Pockets quite all;</l>
+               <l>(For <hi>Red,</hi> like Cordial Sack of Yore,</l>
+               <l>We paid, at leaſt Tick'd dear on Score)</l>
+               <l>Ask but one Shilling for a Bottle;</l>
+               <l>And then that two will buy a Pottle,</l>
+               <l>Is not unknown to him at all</l>
+               <l>Who's vers'd in ſequel Logical.</l>
+               <l>Now Taverns ſhan't be left in Lurches,</l>
+               <l>But Sweat like ſqueez'd Diſſenting Churches.</l>
+               <l>Poor younger Brothers (who laſt Seaſon</l>
+               <l>If one bleſs'd Night they Soak'd their Weaſon,</l>
+               <l>Were forc'd upon themſelves t' Entail</l>
+               <l>A long Week's Lent, or live on Ale.)</l>
+               <l>
+                  <pb n="7" facs="tcp:29414:5"/>
+What Comfort <hi>Peace</hi> to them affords,</l>
+               <l>Who now can get as Drunk as Lords?</l>
+               <l>What Chriſtian Soul would not be willing</l>
+               <l>To be well Fudled for a Shilling?</l>
+               <l>Now Small-beet Poets (whoſe ſick Rhymes</l>
+               <l>Shew they ne'er ſaw the Merry Times,</l>
+               <l>When Wine a Genius did infuſe,</l>
+               <l>And every Bottle was a Muſe)</l>
+               <l>As poor as are <hi>Parnaſſus</hi>'s rents,</l>
+               <l>In God-like <hi>Red</hi> can ſpend ſome pence.</l>
+               <l>Inſpir'd thus, on Conquering Kings</l>
+               <l>They'll ſay a great many fine things;</l>
+               <l>And <hi>Celia</hi> hopes to ſee her name</l>
+               <l>Edg'd in with curious <hi>Anagram.</hi>
+               </l>
+               <l>Even I, leaſt of the Rhyming Crew,</l>
+               <l>Do all this Stuff to Claret owe;</l>
+               <l>
+                  <pb n="8" facs="tcp:29414:6"/>
+Am able to get ſoundly Drunk,</l>
+               <l>And in lewd Sonnet praiſe a <hi>Punk.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And ye, who catch Mankind with your Gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Whether good Wives or dainty Virgins,</l>
+               <l>Shall be paid off your long Arrears,</l>
+               <l>VVhich have been due theſe ſeven Years.</l>
+               <l>No more ſhall needy Cit refuſe</l>
+               <l>Benevolence to his craving Spouſe,</l>
+               <l>For fear a coſtly Brat ſhou'd hap</l>
+               <l>To ſpend his Rents in Plumbs and Pap.</l>
+               <l>No more ſhall tender Maids make Ditty,</l>
+               <l>(VVhom I with all my Soul do pity)</l>
+               <l>Or tell their Grievance at <hi>St. Stephen</hi>'s, <note place="margin">Parrliament.</note>
+               </l>
+               <l>That Marriage goes at <hi>Six</hi> and <hi>Sevens;</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:29414:6"/>
+No more ſhall they intreat <hi>both Houſes</hi>
+               </l>
+               <l>To grant them a ſupply of Spouſes:</l>
+               <l>Husbands ſhall come as faſt as Hops,</l>
+               <l>And Bride-beds ſwarm with Fools and Fops.</l>
+               <l>No more ſhall puling Wenches Languiſh.</l>
+               <l>Or Pipes and Cinders eat in Anguiſh.</l>
+            </lg>
+            <lg>
+               <l>Coffers and Cheſts begin to fill,</l>
+               <l>And Money whisks round like a Wheel:</l>
+               <l>Where all that are Diſtreſs'd and Broken,</l>
+               <l>May now have leave to put a Spoke in.</l>
+               <l>No more ſhall Chriſtian People bicker</l>
+               <l>'Bout wicked Bills of <hi>Bank</hi> or <hi>Chequer;</hi>
+               </l>
+               <l>No more ſhall deal in Paper Traſh,</l>
+               <l>Or take a <hi>Stick</hi> for ready Caſh.</l>
+               <l>
+                  <pb n="10" facs="tcp:29414:7"/>
+Nor will we <hi>Lombard-Smiths</hi> intreat</l>
+               <l>They'd pleaſe their humble Trouts to Cheat;</l>
+               <l>And ſend us lightly-laden home,</l>
+               <l>With half of the too heavy Summ.</l>
+               <l>Chink ſhall no more be a coy Coquet;</l>
+               <l>But <hi>Grace of God</hi> fill ev'ry Pocket.</l>
+            </lg>
+            <lg>
+               <l>The publick Grievance of the Nation</l>
+               <l>
+                  <hi>Taxes;</hi> ſhall quite grow out of Faſhion;</l>
+               <l>
+                  <hi>Aſſeſſors</hi> ſhall leave off to Hector,</l>
+               <l>Nor ſuch a Name be as <hi>Collector.</hi>
+               </l>
+               <l>Tough Country Louts their Beer ſhall pull up,</l>
+               <l>Nor Curſe the King at every Gullup;</l>
+               <l>Since Rural <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>'s as free from Tax,</l>
+               <l>As Rural Laſſes from the <hi>Pox.</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:29414:7"/>
+How merry will be <hi>nown dear Honey,</hi>
+               </l>
+               <l>Now he pays nought for Matrimony?</l>
+               <l>For ſure no Tax needs be impos'd</l>
+               <l>On thoſe who are in Wedlock Noos'd;</l>
+               <l>'Tis dear enough to buy Houſe—Riot,</l>
+               <l>VVith ſale of Liberty and Quiet.</l>
+               <l>And when <hi>Dear Duck</hi> is fetch'd away,</l>
+               <l>'Twil ſure his Sorrow much allay,</l>
+               <l>To hear how moderate the <hi>Rate</hi> is,</l>
+               <l>That he may have a <hi>Pit-hole Gratis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How will the King's Liege Folks rejoice,</l>
+               <l>To ſee again his roaring Boys?</l>
+               <l>VVhile our dear Army was in <hi>Flanders,</hi>
+               </l>
+               <l>And ran the riſque of forty Dangers;</l>
+               <l>
+                  <pb n="12" facs="tcp:29414:8"/>
+We Mourn'd and Pray'd, and took our <hi>Beads</hi> all,</l>
+               <l>For fear a Hair ſhou'd from their Heads fall.</l>
+               <l>Now they're eſcap'd from Bombs and Billows,</l>
+               <l>And live at home like honeſt Fellows.</l>
+               <l>By God's great bleſſing they're come over</l>
+               <l>Our Hen-rooſts to Protect and Cover;</l>
+               <l>In VVinters Bleak and Summers Sultry,</l>
+               <l>From dirty Thieves to keep our <hi>Poultry.</hi>
+               </l>
+               <l>How will the Idle Rake-hells roam on</l>
+               <l>
+                  <hi>Sail'sbury</hi> Plain or <hi>Hounſlow</hi> Common?</l>
+               <l>How proudly weild their Blades right Truſty,</l>
+               <l>Or mount their Muskets now grown Ruſty?</l>
+               <l>Their bluſtring Looks and huffing State</l>
+               <l>VVill envy through the VVorld create,</l>
+               <l>To ſee how <hi>England</hi> can with eaſe</l>
+               <l>Such <hi>ſtanding</hi> Bullies keep in <hi>Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:29414:8"/>
+               <l>What need I tell you, in <hi>Great Britain</hi>
+               </l>
+               <l>What Happineſs each Soul will light on?</l>
+               <l>No more ſhall wicked <hi>Lay-Men</hi> bilk</l>
+               <l>Their <hi>Teacher</hi> of Tithe-Eggs and Milk.</l>
+               <l>
+                  <hi>Quacks</hi> ſhall ſee glittring Fees come thick,</l>
+               <l>Now Folks have Money to be ſick.</l>
+               <l>Loud <hi>Lawyers,</hi> who for means of Living</l>
+               <l>With one another fell a ſtriving.</l>
+               <l>Will now ſet others by the Ears</l>
+               <l>And plead good Neighbours into Jars.</l>
+               <l>Secure the <hi>Merchant</hi> plows the Main,</l>
+               <l>From diſtant Climates reaps his Gain;</l>
+               <l>Sends Spouſe at home rich Silk and Jewel,</l>
+               <l>Which for her kind Gallant won't do ill.</l>
+               <l>
+                  <hi>Pimps, Whores</hi> and <hi>Bawds,</hi> and all the Throng</l>
+               <l>That Life and Pleaſure does prolong,</l>
+               <l>
+                  <pb n="14" facs="tcp:29414:9"/>
+To Flouriſh, as of old, begin,</l>
+               <l>Now we've nought elſe to do but <hi>Sin.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O <hi>Lewis,</hi> thanks to thee we doom</l>
+               <l>For all paſt Favours and to come;</l>
+               <l>What Grape, though of <hi>Moſt Chriſtian</hi> Race,</l>
+               <l>Is good enough thy Health to Grace?</l>
+               <l>Since thou'ſt been pleas'd to give us <hi>Peace,</hi>
+               </l>
+               <l>Conſult our Luxury and Eaſe.</l>
+               <l>Send thy good Breeding unto <hi>White-Hall.</hi>
+               </l>
+               <l>And to our Cellars thy Wine quite all;</l>
+               <l>Thy <hi>Privateers</hi> to <hi>Engliſh Saylors,</hi>
+               </l>
+               <l>And <hi>Shoulder-knots</hi> to <hi>London Taylors.</hi>
+               </l>
+               <l>Send what e'er ſhall thy goodneſs pleaſe;</l>
+               <l>Send us all <hi>France—</hi>but its <hi>Diſeaſe.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
